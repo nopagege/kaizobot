@@ -1,2 +1,2 @@
-pekerja : npm i && node .
+pekerja : npm i awesome-phonenumber && node .
 
