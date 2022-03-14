@@ -1,3 +1,6 @@
+process.on('uncaughtException', console.error) // safe log error 
+
+//============//
 const { 
   WAConnection: _WAConnection,
   MessageType,
