@@ -116,8 +116,8 @@ Hikari.version = [ 2, 2140, 12 ]
 		timeoutMs: 30 * 1000
 	})
 	fs.writeFileSync(`./${setting.sessionName}.json`, JSON.stringify(Hikari.base64EncodedAuthInfo(), null, '\t'))
-    Hikari.updateProfileName('XAIVER')
-    Hikari.setStatus('BABUNYA RADJA')
+    Hikari.updateProfileName('Zyrex')
+    Hikari.setStatus('Slow Respon')
    menu =`*「⋆⋅ BOT TERSAMBUNG⋅⋆」*
              
 *⋆Hai ${setting.ownerName}*
